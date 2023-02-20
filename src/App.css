@@ -1,0 +1,45 @@
+
+
+.btns{
+  background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+  
+        
+}
+
+
+.strt {
+  border: 4px solid black;
+  color: black;
+  transition-duration: 0.4s;
+  margin-left: 530px;
+  margin-top: 250px;
+  font-size: 20px;
+}
+
+.strt:hover {
+  background-color:#f5426f; 
+  color: black;
+}
+
+.stp {
+  border: 4px solid black;
+  transition-duration: 0.4s;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.stp:hover {
+  background-color:#f5426f; 
+  color: black;
+}
+.rst {
+  border: 4px solid black;
+  transition-duration: 0.4s;
+  font-size: 20px;
+  margin-left: 10px;
+}
+
+.rst:hover {
+  background-color: #f5426f; 
+  color: black;
+}
