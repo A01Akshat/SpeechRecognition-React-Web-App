@@ -1,3 +1,9 @@
+This is a SpeechRecognition Web App
+It is created using HTML,CSS and ReactJS
+You can open any site or change the background colour just by saying!
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
